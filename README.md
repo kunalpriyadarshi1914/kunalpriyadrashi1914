@@ -41,6 +41,9 @@ My primary focus is on building and automating **cloud infrastructure, CI/CD pip
 I work extensively with **Microsoft Azure, Azure DevOps, Terraform, Kubernetes, Docker, GitHub Actions, Git, Linux, PowerShell, and Python**.
 
 I enjoy turning manual infrastructure and deployment processes into **repeatable, automated, and scalable solutions**.
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
+<br><br>
+
 
 > 🚀 **My DevOps mindset: Automate → Standardize → Secure → Scale**
 
